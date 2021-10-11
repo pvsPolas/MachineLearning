@@ -1,6 +1,5 @@
 import pandas as pd 
 import quandl
-
 quandl.ApiConfig.api_key="xj965DaCNeSzVjzDy3xG"
 
 df=quandl.get('WIKI/GOOGL')
